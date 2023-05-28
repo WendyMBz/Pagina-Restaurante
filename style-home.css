@@ -1,0 +1,41 @@
+body{
+    background-color: rgb(245, 236, 236);
+    font-size: 20px
+}
+#portada{
+width: 100%;
+height: 300px;
+}
+
+.principal{
+    padding: 20px;
+    background-color:rgb(211, 197, 170);
+}
+.titulo-centralizado{
+    text-align: center;
+}
+
+#mision{
+font-size: 25px;
+}
+
+
+#principios{
+    font-size: 25px;
+    font-style: italic;
+    padding-left: 30px;
+
+    }
+
+p{
+    text-align: center;
+}
+
+#diferencialpic{
+    width: 50%;
+}
+
+#items{
+    display: inline-block;
+vertical-align: top;
+}
